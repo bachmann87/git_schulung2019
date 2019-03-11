@@ -8,3 +8,9 @@ body {
     background-color: #f7f7f7;
     font-family: 'Quicksand', sans-serif;
 }
+
+main {
+    max-width: 960px;
+    background-color: white;
+    margin: 0 auto;
+}
