@@ -13,4 +13,5 @@ main {
     max-width: 960px;
     background-color: white;
     margin: 0 auto;
+    min-height: 100vh;
 }
