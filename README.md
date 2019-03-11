@@ -1,1 +1,1 @@
-# git_schulung2019
+# Einführung in Git/DevTools
